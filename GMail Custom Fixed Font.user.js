@@ -1,15 +1,16 @@
 // ==UserScript==
-// @name           GMail Custom Fixed Font
-// @namespace      https://mail.google.com
-// @include        https://mail.google.com/*
-// @icon           https://ssl.gstatic.com/ui/v1/icons/mail/favicon.ico
-// @run-at         document-start
-// @description    Custom fixed-font in GMail messages
-// @version        1.4.0
-// @license        CC0; https://creativecommons.org/publicdomain/zero/1.0/
-// @homepageURL    https://github.com/Eagle3386/userscripts
-// @grant          GM_addStyle
-// @grant          GM.addStyle
+// @name        GMail Custom Fixed Font
+// @namespace   https://mail.google.com
+// @include     https://mail.google.com/*
+// @icon        https://ssl.gstatic.com/ui/v1/icons/mail/favicon.ico
+// @run-at      document-start
+// @description Custom fixed-font in Gmail messages
+// @version     1.4
+// @author      Martin Baranski
+// @homepageURL https://github.com/Eagle3386/userscripts
+// @license     CC0; https://creativecommons.org/publicdomain/zero/1.0/
+// @grant       GM_addStyle
+// @grant       GM.addStyle
 // ==/UserScript==
 
 const fontName = 'Source Code Pro';
