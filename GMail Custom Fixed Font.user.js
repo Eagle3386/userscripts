@@ -6,7 +6,7 @@
 // @run-at      document-start
 // @description Custom fixed-font in Gmail messages
 // @version     1.4
-// @author      Martin Baranski
+// @author      Marcin Rataj (original), Martin Baranski (tweaks)
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     CC0; https://creativecommons.org/publicdomain/zero/1.0/
 // @grant       GM_addStyle
