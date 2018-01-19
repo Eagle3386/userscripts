@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Microsoft Websites EN-US Enforcer
-// @namespace   https://microsoft.com/
+// @namespace   /^https?://(developer|docs|msdn|technet|support)\.(microsoft|office)\.com/$
 // @include     /^https?://(developer|docs|msdn|technet|support)\.(microsoft|office)\.com/.*$
 // @icon        https://www.microsoft.com/favicon.ico
 // @run-at      document-start
