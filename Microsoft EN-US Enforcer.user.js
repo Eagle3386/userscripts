@@ -5,7 +5,7 @@
 // @icon        https://www.microsoft.com/favicon.ico
 // @run-at      document-start
 // @description Redirect to US-English versions of Microsoft websites, except when non-EN-US is enforced.
-// @version     2.0
+// @version     2.1
 // @author      RoundRobin (original), Martin Baranski (improvement)
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     GPL v2.0
