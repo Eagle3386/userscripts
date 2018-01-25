@@ -5,7 +5,7 @@
 // @icon        https://www.microsoft.com/favicon.ico
 // @run-at      document-start
 // @description Enforce dark theme, even when reset by browser privacy add-ons clearing local/session storage.
-// @version     1.0
+// @version     1.1
 // @author      Martin Baranski
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     GPL v2.0
