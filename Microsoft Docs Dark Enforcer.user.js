@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Microsoft Docs Dark Theme Enforcer
+// @name        Microsoft Docs Dark Enforcer
 // @namespace   /^https?://docs\.microsoft\.com/\w{2}-\w{2}/$
 // @include     /^https?://docs\.microsoft\.com/\w{2}-\w{2}/.*$
 // @icon        https://www.microsoft.com/favicon.ico
