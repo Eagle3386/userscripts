@@ -14,6 +14,9 @@ Custom fixed-font in GMail messages
 ### GSearch Privacy Enforcer
 Enforces search privacy by removing link tracking
 
+### Microsoft Docs Dark Theme Enforcer
+Enforce dark theme, even when reset by browser privacy add-ons clearing local/session storage.
+
 ### Microsoft EN-US Enforcer
 Redirect to US-English versions of Microsoft websites, except when non-EN-US is enforced via URL (by appending `&language=force`)
 
