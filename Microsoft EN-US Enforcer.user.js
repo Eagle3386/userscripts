@@ -9,6 +9,7 @@
 // @author      RoundRobin (original), Martin Baranski (improvement)
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     GPL v2.0
+// @grant       none
 // ==/UserScript==
 
 (function() {
