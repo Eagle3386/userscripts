@@ -5,7 +5,7 @@
 // @icon        https://www.dkb.de/favicon.ico
 // @run-at      document-end
 // @description Always shows daily balance diagram
-// @version     1.2
+// @version     1.3
 // @author      Martin Baranski
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     GPL v2.0
@@ -15,6 +15,7 @@
 (function() {
   'use strict';
 
-  document.getElementById('dailyBalanceDiagram').style.setProperty('display', 'block', 'important');
-  document.getElementById('iconExpandDiagram').classList.replace('iconExpandMore', 'iconExpandLess');
+  if (jQuery('#dailyBalanceDiagram').is(':hidden')) {
+    Abaxx.dkb_paymenttransaction.toggleDailyBalanceDiagram();
+  }
 })();
