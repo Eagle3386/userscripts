@@ -1,6 +1,10 @@
 # Eagle3386's userscripts
 Collection of userscripts developed by myself or found throughout the net, stored here for availability and extensibility reasons.
 
+[![GitHub issues](https://img.shields.io/github/issues/Eagle3386/userscripts.svg)](https://github.com/Eagle3386/userscripts/issues) (click to view them or add a new one)
+
+[![GitHub license](https://img.shields.io/badge/license-EUPL-blue.svg)](https://github.com/Eagle3386/userscripts/blob/master/LICENSE.md) (see [Understanding the EUPL](https://joinup.ec.europa.eu/news/understanding-eupl-v12) for details, [EUPL texts](https://joinup.ec.europa.eu/page/eupl-text-11-12) for official translations)
+
 ## Current contents
 ### [DKB Enhancer](../../raw/master/DKB%20Enhancer.user.js)
 Always shows daily balance diagram
