@@ -5,6 +5,9 @@ Collection of userscripts developed by myself or found throughout the net, store
 ### [DKB Enhancer](../../raw/master/DKB%20Enhancer.user.js)
 Always shows daily balance diagram
 
+### [FB Enhancer](../../raw/master/FB%20Enhancer.user.js)
+Always checks "Don't save" to *not* skip 2FA upon login
+
 ### [GCalendar Colored Weekends](../../raw/master/GCalendar%20Colored%20Weekends.user.js)
 Emphasizes background of weekends in monthly view of Google Calendar
 
