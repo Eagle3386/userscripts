@@ -8,7 +8,7 @@
 // @version     2.1
 // @author      Martin Baranski
 // @homepageURL https://github.com/Eagle3386/userscripts
-// @license     GPL v2.0
+// @license     EUPL, Version 1.2 only
 // @grant       none
 // ==/UserScript==
 
