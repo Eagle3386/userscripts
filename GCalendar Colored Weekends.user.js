@@ -4,7 +4,7 @@
 // @include     https://calendar.google.com/*
 // @icon        https://calendar.google.com/googlecalendar/images/favicon_v2014_31.ico
 // @run-at      document-start
-// @description Emphasizes background of weekends in monthly view.
+// @description Emphasizes backgrounds of today and weekends in (mini) monthly view.
 // @version     2.2
 // @author      Martin Baranski
 // @homepageURL https://github.com/Eagle3386/userscripts
