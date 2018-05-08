@@ -15,10 +15,13 @@
 (function() {
   'use strict';
 
+  const miniView = 'span.elYzab-DaY83b-ppHlrf';
+  const miniViewHead = 'span.SoBqBf';
+  const monthView = 'div.elYzab-cXXICe-Hjleke';
   const style = document.createElement('style');
   style.type = 'text/css';
-  style.appendChild(document.createTextNode('div.elYzab-cXXICe-Hjleke:nth-child(6), span.elYzab-DaY83b-ppHlrf:nth-child(7) { background-color: #F4F4F4; }'));
-  style.appendChild(document.createTextNode('div.elYzab-cXXICe-Hjleke:nth-child(7), span.elYzab-DaY83b-ppHlrf:nth-child(8) { background-color: #EDEDED; }'));
+  style.appendChild(document.createTextNode(monthView + ':nth-child(6), ' + miniView + ':nth-child(7), ' + miniViewHead + ':nth-child(7) { background-color: #F4F4F4; }'));
+  style.appendChild(document.createTextNode(monthView + ':nth-child(7), ' + miniView + ':nth-child(8), ' + miniViewHead + ':nth-child(8) { background-color: #EDEDED; }'));
   style.appendChild(document.createTextNode('.ef2wWc { background-color: #DB4437 !important; }'));
   document.getElementsByTagName('head')[0].appendChild(style);
 })();
