@@ -13,7 +13,7 @@ Always shows daily balance diagram
 Always checks "Don't save" to *not* skip 2FA upon login
 
 ### [GCalendar Colored Weekends](../../raw/master/GCalendar%20Colored%20Weekends.user.js)
-Emphasizes background of weekends in monthly view of Google Calendar
+Emphasizes backgrounds of today and weekends in (mini) monthly view of Google Calendar
 
 ### [GMail Custom Fixed Font](../../raw/master/GMail%20Custom%20Fixed%20Font.user.js)
 Custom fixed-font in GMail messages
