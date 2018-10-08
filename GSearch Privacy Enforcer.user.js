@@ -6,7 +6,7 @@
 // @run-at      document-start
 // @description Enforces search privacy by removing link tracking.
 // @version     1.2
-// @author      Martin Baranski
+// @author      Martin Arndt
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     EUPL, Version 1.2 only
 // @grant       none
