@@ -6,7 +6,7 @@
 // @run-at      document-end
 // @description Always shows daily balance diagram
 // @version     1.3
-// @author      Martin Baranski
+// @author      Martin Arndt
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     EUPL, Version 1.2 only
 // @grant       none
