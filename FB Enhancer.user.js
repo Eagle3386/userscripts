@@ -6,7 +6,7 @@
 // @run-at      document-end
 // @description Always checks "Don't save" to *not* skip 2FA upon login
 // @version     1.2
-// @author      Martin Baranski
+// @author      Martin Arndt
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     EUPL, Version 1.2 only
 // @grant       none
