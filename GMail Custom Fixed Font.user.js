@@ -6,7 +6,7 @@
 // @run-at      document-start
 // @description Custom fixed-font in GMail messages
 // @version     1.6
-// @author      Marcin Rataj (original), Martin Baranski (tweaks)
+// @author      Marcin Rataj (original), Martin Arndt (tweaks)
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     CC0; https://creativecommons.org/publicdomain/zero/1.0/
 // @grant       none
