@@ -6,7 +6,7 @@
 // @run-at      document-start
 // @description Enforce dark theme, even when reset by browser privacy add-ons clearing local/session storage.
 // @version     1.1
-// @author      Martin Baranski
+// @author      Martin Arndt
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     EUPL, Version 1.2 only
 // @grant       none
