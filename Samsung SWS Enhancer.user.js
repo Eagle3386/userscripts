@@ -6,7 +6,7 @@
 // @run-at      document-start
 // @description Fixes improper height/width values of toner/paper tray panel
 // @version     1.3
-// @author      Martin Baranski
+// @author      Martin Arndt
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     EUPL, Version 1.2 only
 // @grant       none
