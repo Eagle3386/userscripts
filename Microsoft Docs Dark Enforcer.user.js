@@ -17,16 +17,9 @@
 
   document.addEventListener('readystatechange', event => {
     if (event.target.readyState === "interactive") {
-      var selector = event.target.getElementById('theme-selector');
-      for (var i = 0; i < selector.options.length; i++) {
-        if (selector.options[i].value === 'theme_night') {
-          selector.selectedIndex = i;
-          break;
-        }
+      if (!document.documentElement.classList.contains("theme_night")) {
+        document.documentElement.classList.add("theme_night");
       }
-      selector.dispatchEvent(new Event('change', {
-        "bubbles": true, "cancelable": true, "composed": false
-      }));
     }
   });
 })();
