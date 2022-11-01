@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        Microsoft Websites EN-US Enforcer
-// @namespace   /^https?://(developer|docs|msdn|technet|support|www)\.(microsoft|office|visualstudio)\.com/$
-// @include     /^https?://(developer|docs|msdn|technet|support|www)\.(microsoft|office|visualstudio)\.com/.*$
+// @namespace   /^https?://(developer|docs|learn|msdn|technet|support|www)\.(microsoft|office|visualstudio)\.com/$
+// @include     /^https?://(developer|docs|learn|msdn|technet|support|www)\.(microsoft|office|visualstudio)\.com/.*$
 // @icon        https://www.microsoft.com/favicon.ico
 // @run-at      document-start
 // @description Redirect to US-English versions of Microsoft websites, except when non-EN-US is enforced.
-// @version     2.3
+// @version     2.4
 // @author      RoundRobin (original), Martin Arndt (improvement)
 // @homepageURL https://github.com/Eagle3386/userscripts
 // @license     EUPL, Version 1.2 only
